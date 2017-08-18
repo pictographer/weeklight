@@ -11,4 +11,4 @@ A touch near pin 3 will advance to the next day of the week.
 
 The Teensy LC is a low-cost ARM Cortex-M0 development board from http://pjrc.com.
 
- ![Day of the Week Indicator photograph](weeklight/IMG_20170817_174136.jpg)
+ ![Day of the Week Indicator photograph](https://github.com/pictographer/weeklight/blob/master/IMG_20170817_174136.jpg)
