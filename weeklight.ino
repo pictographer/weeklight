@@ -1,3 +1,4 @@
+// -*-c++-*-
 // Gadget to display the day of the week
 //
 // Seven cool white LEDs are wired to a Teensy LC and mounted in a
@@ -83,7 +84,6 @@ void loop() {
          }
       }
    }
-
    // Poll for a touch.
    if (touchThreshold3 < touchRead(3)) {  // Measured threshold for this gadget.
       digitalWriteFast(LED_BUILTIN, 1);  // Turn on the Teensy LED.
